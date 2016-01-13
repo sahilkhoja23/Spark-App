@@ -1,4 +1,5 @@
 # Spark: Crowdfunding for a Cause
+Hack made for 2015 Money2020 Hackathon.
 
 ## Pitch Summary
 
