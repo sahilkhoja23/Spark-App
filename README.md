@@ -1,5 +1,5 @@
 # Spark: Crowdfunding for a Cause
-Hack made for 2015 Money2020 Hackathon.
+Swift Hack made for the 2015 Money2020 Hackathon.
 
 ## Pitch Summary
 
@@ -9,5 +9,5 @@ While the ALS Ice Bucket Challenge increased awareness for Lou Gehrig's disease,
 MasterCard Mobile Payment SDK
 
 ## Contributors
-[Sameer Khoja](http://sameerkhoja.com), [Sahil Khoja](http://sahkho.com), Matthew Black, Zain Khoja
+[Sameer Khoja](http://sameerkhoja.com), [Sahil Khoja](http://sahkho.com), Matthew Black, Aalyan Rajwani
 
