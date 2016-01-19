@@ -1,4 +1,4 @@
-# Spark: Crowdfunding for a Cause
+# 🔥Spark: Crowdfunding for a Cause
 Swift Hack made for the 2015 Money2020 Hackathon.
 
 ## Pitch Summary
