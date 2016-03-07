@@ -7,8 +7,10 @@ While the ALS Ice Bucket Challenge increased awareness for Lou Gehrig's disease,
 
 ## Screenshots
 
-![myimage-alt-tag](https://github.com/samkho10/Spark-App/blob/master/Newsfeed.jpg)
-![myimage-alt-tag](https://github.com/samkho10/Spark-App/blob/master/Respond\ to\ a\ Spark.png =250x)
+<img src="https://github.com/samkho10/Spark-App/blob/master/screenshots/Newsfeed.png" width="400">
+<img src="https://github.com/samkho10/Spark-App/blob/master/screenshots/Respond to a Spark - Text.png" width="400">
+<img src="https://github.com/samkho10/Spark-App/blob/master/screenshots/Create a Spark - Details.png" width="400">
+<img src="https://github.com/samkho10/Spark-App/blob/master/screenshots/Respond to a Spark.png" width="400">
 
 ## API
 MasterCard Mobile Payment SDK
